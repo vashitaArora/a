@@ -1,4 +1,1 @@
-# a
-[\\README.md](\README.md)
-
-[/README.md](/README.md)
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FHoyg%2Fazuredevopslabs%2FAKS-Karthik%2Flabs%2Fvstsextend%2Fkubernetes%2Farmtemplate%2Fazuredeploy.json" target="_blank"><img src="http://azuredeploy.net/deploybutton.png" alt="Deploy to Azure" /></a>
